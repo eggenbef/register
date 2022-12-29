@@ -1,0 +1,19 @@
+{
+	"$schema": "../schemas/domain.schema.json",
+
+	"description": "eggenbef's dev domain",
+
+	"domain": "localplayer.dev",
+	"subdomain": "eggenbef",
+
+	"owner": {
+		"repo": "https://github.com/eggenbef",
+		"email": "eggenberger.f@pm.me"
+	},
+
+	"record": {
+		"CNAME": "eggenbef.dev."
+	},
+
+	"proxy": false
+}
